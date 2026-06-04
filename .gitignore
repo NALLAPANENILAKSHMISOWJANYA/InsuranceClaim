@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables (NEVER commit)
+.env
+
+# Database files
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Uploaded documents (runtime)
+uploads/
+!uploads/.gitkeep
+
+# FAISS vector store (runtime – rebuilt from policy PDFs)
+vector_store/
+!vector_store/.gitkeep
+
+# Logs
+logs/
+*.log
+
+# Test artifacts
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db

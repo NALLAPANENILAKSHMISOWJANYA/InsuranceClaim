@@ -1,0 +1,37 @@
+image: python:3.11-slim
+
+pipelines:
+  default:
+    - step:
+        name: "Install & Lint"
+        caches:
+          - pip
+        script:
+          - pip install ruff==0.5.0
+          - ruff check backend/app/
+
+    - step:
+        name: "Unit Tests + Coverage"
+        caches:
+          - pip
+        script:
+          - pip install -r backend/requirements.txt
+          - cd backend && pytest tests/ -v --cov=app --cov-report=xml --cov-fail-under=80
+        artifacts:
+          - backend/coverage.xml
+
+    - step:
+        name: "SonarQube Analysis"
+        script:
+          - pipe: sonarsource/sonarqube-scan:2.0.1
+            variables:
+              SONAR_HOST_URL: $SONAR_HOST_URL
+              SONAR_TOKEN: $SONAR_TOKEN
+
+  branches:
+    main:
+      - step:
+          name: "Deploy to Render"
+          script:
+            - echo "Trigger Render deploy hook"
+            - curl -X POST $RENDER_DEPLOY_HOOK_URL
