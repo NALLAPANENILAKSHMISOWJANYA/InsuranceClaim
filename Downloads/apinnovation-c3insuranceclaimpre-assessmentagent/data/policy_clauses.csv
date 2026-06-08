@@ -1,0 +1,24 @@
+HC001,HEALTH,COVERAGE,Hospitalization Coverage,Hospitalization expenses are covered when admission exceeds 24 hours.
+HC002,HEALTH,WAITING_PERIOD,Initial Waiting Period,Claims are not payable during the first 30 days except accidental hospitalization.
+HC003,HEALTH,PRE_EXISTING_DISEASE,Pre Existing Disease,Pre-existing diseases are covered only after 48 months of continuous coverage.
+HC004,HEALTH,EXCLUSION,Cosmetic Treatment,Cosmetic and aesthetic procedures are not covered.
+HC005,HEALTH,SUB_LIMIT,Cataract Limit,Cataract surgery reimbursement is limited to INR 50000 per eye.
+HC006,HEALTH,DOCUMENT_REQUIREMENT,Medical Documents,Discharge summary and hospital bills are mandatory.
+VC001,VEHICLE,COVERAGE,Accident Coverage,Vehicle damage caused by accidents is covered.
+VC002,VEHICLE,THEFT_COVERAGE,Theft Protection,Vehicle theft is covered after FIR submission.
+VC003,VEHICLE,EXCLUSION,No Driving License,Claims are rejected if driver lacked a valid driving license.
+VC004,VEHICLE,EXCLUSION,Drunk Driving,Claims arising from alcohol influence are not covered.
+VC005,VEHICLE,DOCUMENT_REQUIREMENT,FIR Requirement,FIR is mandatory for theft claims.
+LC001,LIFE,COVERAGE,Death Benefit,Death benefit payable to nominee when policy is active.
+LC002,LIFE,EXCLUSION,Suicide Clause,Suicide within first 12 months is excluded.
+LC003,LIFE,DOCUMENT_REQUIREMENT,Death Certificate,Death certificate must be submitted.
+LC004,LIFE,DOCUMENT_REQUIREMENT,Nominee Proof,Nominee identity proof is mandatory.
+HM001,HOME,COVERAGE,Fire Damage,Fire damage to insured property is covered.
+HM002,HOME,COVERAGE,Flood Damage,Flood damage is covered under comprehensive plans.
+HM003,HOME,EXCLUSION,Wear And Tear,Normal wear and tear is not covered.
+HM004,HOME,DOCUMENT_REQUIREMENT,Property Photos,Property damage photographs are mandatory.
+CC001,CROP,COVERAGE,Drought Coverage,Crop loss due to drought is covered.
+CC002,CROP,COVERAGE,Flood Coverage,Crop loss due to flood is covered.
+CC003,CROP,COVERAGE,Cyclone Coverage,Crop loss due to cyclone is covered.
+CC004,CROP,EXCLUSION,Intentional Damage,Intentional crop destruction is not covered.
+CC005,CROP,DOCUMENT_REQUIREMENT,Survey Report,A crop survey report is mandatory.

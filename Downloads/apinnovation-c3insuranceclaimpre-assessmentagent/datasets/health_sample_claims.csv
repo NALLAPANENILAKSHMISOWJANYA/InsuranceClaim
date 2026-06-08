@@ -1,0 +1,151 @@
+claim_id,insurance_type,claim_type,policy_number,claimant_name,claimant_age,claimant_bmi,smoker,region,diagnosis,hospital_name,incident_date,claimed_amount,status,queue_tier,triage_score
+CP-H-001,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-001,Ravi Shankar Rao,49,29.9,no,northwest,Dengue Fever,Ramesh Hospitals Vijayawada,2023-05-23,9000,AWAITING_SENIOR,SENIOR,77
+CP-H-002,HEALTH,HEALTH_DOMICILIARY,HG-2023-002,Priya Nair,62,26.7,yes,northeast,Knee Arthroplasty,Yashoda Hospitals Hyderabad,2024-03-08,28100,AWAITING_SENIOR,SENIOR,94
+CP-H-003,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-003,Mohammed Salim,57,20.1,no,southwest,Dengue Fever,Rainbow Hospitals Hyderabad,2024-09-08,12000,AWAITING_STANDARD,STANDARD,73
+CP-H-004,HEALTH,HEALTH_CASHLESS,HG-2023-004,Sunita Devi,22,39.5,no,southwest,Stroke Rehabilitation,Ramesh Hospitals Vijayawada,2024-04-04,139700,AWAITING_STANDARD,STANDARD,94
+CP-H-005,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-005,Venkat Reddy,18,38.7,no,northeast,COVID-19 Hospitalisation,Omega Hospital Visakhapatnam,2023-12-15,281600,AWAITING_SENIOR,SENIOR,70
+CP-H-006,HEALTH,HEALTH_CASHLESS,HG-2023-006,Lakshmi Prasad,49,23.8,yes,northeast,Cataract Surgery,KIMS Hospitals Vijayawada,2024-01-25,24100,AWAITING_STANDARD,STANDARD,81
+CP-H-007,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-007,Arjun Sharma,35,27.1,no,southwest,Renal Calculus,Apollo Hospitals Hyderabad,2024-04-15,393900,AWAITING_STANDARD,STANDARD,98
+CP-H-008,HEALTH,HEALTH_DAYCARE,HG-2023-008,Geeta Kumari,52,41.8,yes,southeast,Road Accident Trauma,Care Hospitals Guntur,2024-10-05,47300,AWAITING_ELEVATED,ELEVATED,65
+CP-H-009,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-009,Suresh Babu,47,36.0,no,southwest,Typhoid Fever,Pinnamaneni Hospitals Krishna,2023-03-13,8600,AWAITING_SENIOR,SENIOR,96
+CP-H-010,HEALTH,HEALTH_CASHLESS,HG-2023-010,Anitha Reddy,22,28.3,no,northwest,Knee Arthroplasty,Ramesh Hospitals Vijayawada,2023-04-14,219000,AWAITING_STANDARD,STANDARD,78
+CP-H-011,HEALTH,HEALTH_DAYCARE,HG-2023-011,Krishna Murthy,49,31.9,no,southwest,Hypertension Treatment,Sri Venkateswara Institute Tirupati,2023-12-30,11600,AWAITING_ELEVATED,ELEVATED,83
+CP-H-012,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-012,Padma Rao,56,34.4,no,southeast,Liver Cirrhosis,Star Hospitals Vijayawada,2023-06-25,10600,AWAITING_STANDARD,STANDARD,64
+CP-H-013,HEALTH,HEALTH_CASHLESS,HG-2023-013,Srinivas Kumar,27,33.7,no,southeast,Pulmonary Embolism,Omega Hospital Visakhapatnam,2023-10-04,207400,AWAITING_ELEVATED,ELEVATED,70
+CP-H-014,HEALTH,HEALTH_DOMICILIARY,HG-2023-014,Uma Devi,47,33.3,no,northeast,Dengue Fever,Star Hospitals Vijayawada,2023-11-29,20900,DEFICIENT,,95
+CP-H-015,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-015,Rajesh Gupta,28,26.5,no,southeast,Burns Treatment,Apollo Hospitals Hyderabad,2023-11-20,360300,APPROVED,,74
+CP-H-016,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-016,Meena Patel,31,28.5,no,northeast,Angioplasty,Yashoda Hospitals Hyderabad,2023-11-19,6800,AWAITING_ELEVATED,ELEVATED,73
+CP-H-017,HEALTH,HEALTH_DAYCARE,HG-2023-017,Vikram Singh,50,25.4,no,northwest,Pancreatitis,Star Hospitals Vijayawada,2024-04-14,30300,AWAITING_STANDARD,STANDARD,85
+CP-H-018,HEALTH,HEALTH_CASHLESS,HG-2023-018,Deepa Iyer,51,25.8,no,southwest,Sinusitis Surgery,Rainbow Hospitals Hyderabad,2024-07-05,9900,AWAITING_STANDARD,STANDARD,75
+CP-H-019,HEALTH,HEALTH_MATERNITY,HG-2023-019,Santosh Yadav,31,29.1,no,southwest,Pancreatitis,Yashoda Hospitals Hyderabad,2024-02-13,312200,AWAITING_STANDARD,STANDARD,87
+CP-H-020,HEALTH,HEALTH_CASHLESS,HG-2023-020,Kavitha Nair,19,30.6,no,northwest,Maternity - Normal Delivery,KIMS Hospitals Vijayawada,2023-02-18,24100,AWAITING_ELEVATED,ELEVATED,92
+CP-H-021,HEALTH,HEALTH_CASHLESS,HG-2023-021,Ramesh Babu,49,33.3,no,northeast,Fracture - Femur,Star Hospitals Vijayawada,2024-03-08,10400,APPROVED,,70
+CP-H-022,HEALTH,HEALTH_DAYCARE,HG-2023-022,Shanthi Devi,31,38.1,yes,northeast,Liver Cirrhosis,Lotus Hospital Vijayawada,2024-06-25,58600,AWAITING_SENIOR,SENIOR,84
+CP-H-023,HEALTH,HEALTH_MATERNITY,HG-2023-023,Naresh Reddy,44,20.2,yes,northeast,Cancer Chemotherapy,Pinnamaneni Hospitals Krishna,2023-04-28,19600,AWAITING_STANDARD,STANDARD,60
+CP-H-024,HEALTH,HEALTH_MATERNITY,HG-2023-024,Anjali Sharma,63,37.7,yes,southwest,Tonsillectomy,Star Hospitals Vijayawada,2023-12-15,48800,AWAITING_SENIOR,SENIOR,77
+CP-H-025,HEALTH,HEALTH_DAYCARE,HG-2023-025,Prakash Rao,22,30.4,yes,northwest,Pulmonary Embolism,Apollo Hospitals Hyderabad,2023-09-27,33900,AWAITING_STANDARD,STANDARD,70
+CP-H-026,HEALTH,HEALTH_CASHLESS,HG-2023-026,Saritha Kumari,47,29.4,no,southeast,Angioplasty,KIMS Hospitals Vijayawada,2024-10-02,8500,DEFICIENT,,92
+CP-H-027,HEALTH,HEALTH_DOMICILIARY,HG-2023-027,Anil Kumar,19,17.5,no,northwest,Liver Cirrhosis,Ramesh Hospitals Vijayawada,2023-06-06,134600,AWAITING_STANDARD,STANDARD,92
+CP-H-028,HEALTH,HEALTH_CASHLESS,HG-2023-028,Rekha Pillai,64,37.9,no,northwest,Tonsillectomy,Rainbow Hospitals Hyderabad,2023-01-01,14200,AWAITING_ELEVATED,ELEVATED,94
+CP-H-029,HEALTH,HEALTH_DAYCARE,HG-2023-029,Vijay Babu,46,27.6,no,southwest,Cataract Surgery,Sri Venkateswara Institute Tirupati,2023-11-11,24600,AWAITING_SENIOR,SENIOR,61
+CP-H-030,HEALTH,HEALTH_CASHLESS,HG-2023-030,Sudha Rani,18,23.2,no,southeast,Knee Arthroplasty,KIMS Hospitals Vijayawada,2024-05-12,93100,AWAITING_STANDARD,STANDARD,96
+CP-H-031,HEALTH,HEALTH_MATERNITY,HG-2023-031,Mohan Das,53,39.6,no,southeast,Diabetes Management,Star Hospitals Vijayawada,2024-05-01,10600,APPROVED,,68
+CP-H-032,HEALTH,HEALTH_CASHLESS,HG-2023-032,Sita Ram,30,21.9,no,northeast,Maternity - C-Section,Yashoda Hospitals Hyderabad,2024-03-09,391600,REJECTED,,76
+CP-H-033,HEALTH,HEALTH_MATERNITY,HG-2023-033,Girish Chandra,19,30.6,no,northwest,COVID-19 Hospitalisation,Care Hospitals Guntur,2024-02-13,136100,DEFICIENT,,72
+CP-H-034,HEALTH,HEALTH_DOMICILIARY,HG-2023-034,Pooja Mehta,18,30.0,no,southeast,Pulmonary Embolism,Rainbow Hospitals Hyderabad,2024-04-07,142800,DEFICIENT,,83
+CP-H-035,HEALTH,HEALTH_CASHLESS,HG-2023-035,Balaji Swamy,59,36.5,no,southeast,Hip Replacement,Apollo Hospitals Hyderabad,2024-08-25,28300,AWAITING_STANDARD,STANDARD,64
+CP-H-036,HEALTH,HEALTH_MATERNITY,HG-2023-036,Lalitha Devi,49,36.9,no,southeast,Acute Appendicitis,KIMS Hospitals Vijayawada,2024-10-08,8100,AWAITING_SENIOR,SENIOR,74
+CP-H-037,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-037,Kishore Kumar,22,26.8,no,southeast,Septicemia,Sri Venkateswara Institute Tirupati,2023-03-14,138200,AWAITING_STANDARD,STANDARD,62
+CP-H-038,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-038,Madhuri Patil,23,24.5,no,northeast,Typhoid Fever,Rainbow Hospitals Hyderabad,2023-05-16,198900,AWAITING_ELEVATED,ELEVATED,91
+CP-H-039,HEALTH,HEALTH_MATERNITY,HG-2023-039,Sanjay Verma,41,31.6,no,southwest,Maternity - Normal Delivery,Ramesh Hospitals Vijayawada,2024-04-29,6200,AWAITING_SENIOR,SENIOR,96
+CP-H-040,HEALTH,HEALTH_CASHLESS,HG-2023-040,Nandini Rao,42,24.6,yes,northeast,Cataract Surgery,Star Hospitals Vijayawada,2024-03-17,21300,APPROVED,,66
+CP-H-041,HEALTH,HEALTH_DAYCARE,HG-2023-041,Dinesh Babu,26,32.5,no,northeast,Septicemia,Pinnamaneni Hospitals Krishna,2023-02-25,289700,AWAITING_ELEVATED,ELEVATED,89
+CP-H-042,HEALTH,HEALTH_DOMICILIARY,HG-2023-042,Vasantha Kumari,41,31.6,no,northeast,Cardiac Bypass Surgery,Omega Hospital Visakhapatnam,2023-12-14,7400,AWAITING_SENIOR,SENIOR,66
+CP-H-043,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-043,Raghavendra Rao,45,40.0,no,northeast,Typhoid Fever,Ramesh Hospitals Vijayawada,2024-07-03,9700,APPROVED,,75
+CP-H-044,HEALTH,HEALTH_DAYCARE,HG-2023-044,Smitha Nair,23,37.1,no,southwest,Renal Calculus,Lotus Hospital Vijayawada,2023-09-13,298600,AWAITING_ELEVATED,ELEVATED,71
+CP-H-045,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-045,Harish Reddy,19,22.5,no,northwest,Fracture - Femur,Rainbow Hospitals Hyderabad,2023-04-11,175700,APPROVED,,88
+CP-H-046,HEALTH,HEALTH_MATERNITY,HG-2023-046,Bhavani Devi,54,47.4,yes,southeast,Knee Arthroplasty,Ramesh Hospitals Vijayawada,2023-06-20,63800,AWAITING_STANDARD,STANDARD,60
+CP-H-047,HEALTH,HEALTH_DAYCARE,HG-2023-047,Prasad Raju,30,27.7,no,southwest,Septicemia,Omega Hospital Visakhapatnam,2023-03-02,295000,AWAITING_ELEVATED,ELEVATED,73
+CP-H-048,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-048,Kamala Devi,50,31.8,yes,northeast,Renal Calculus,Lotus Hospital Vijayawada,2023-10-20,41100,AWAITING_STANDARD,STANDARD,84
+CP-H-049,HEALTH,HEALTH_DOMICILIARY,HG-2023-049,Nagaraju K,23,35.2,no,southwest,Cancer Chemotherapy,Pinnamaneni Hospitals Krishna,2024-05-13,200600,AWAITING_ELEVATED,ELEVATED,95
+CP-H-050,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-050,Swathi Reddy,34,29.3,no,southeast,Cardiac Bypass Surgery,Yashoda Hospitals Hyderabad,2024-07-09,6200,AWAITING_STANDARD,STANDARD,73
+CP-H-051,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-051,Suresh Chandra,42,40.4,yes,southeast,Cardiac Bypass Surgery,Yashoda Hospitals Hyderabad,2024-05-03,43900,AWAITING_STANDARD,STANDARD,63
+CP-H-052,HEALTH,HEALTH_MATERNITY,HG-2023-052,Indira Devi,46,25.7,no,northwest,Cardiac Bypass Surgery,Rainbow Hospitals Hyderabad,2023-03-24,9300,AWAITING_ELEVATED,ELEVATED,70
+CP-H-053,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-053,Venkateswara Rao,18,32.1,no,southeast,Knee Arthroplasty,Star Hospitals Vijayawada,2023-08-29,232500,APPROVED,,98
+CP-H-054,HEALTH,HEALTH_MATERNITY,HG-2023-054,Radha Krishna,30,43.1,no,southeast,Spinal Disc Prolapse,Yashoda Hospitals Hyderabad,2023-02-10,394600,AWAITING_ELEVATED,ELEVATED,75
+CP-H-055,HEALTH,HEALTH_DAYCARE,HG-2023-055,Murali Dhar,26,34.2,no,southwest,Spinal Disc Prolapse,Rainbow Hospitals Hyderabad,2023-11-20,331000,AWAITING_SENIOR,SENIOR,97
+CP-H-056,HEALTH,HEALTH_CASHLESS,HG-2023-056,Sumathi Rao,59,27.5,no,southwest,Dengue Fever,Care Hospitals Guntur,2024-02-10,12300,REJECTED,,80
+CP-H-057,HEALTH,HEALTH_DOMICILIARY,HG-2023-057,Chandra Sekhar,21,31.1,no,southwest,Pulmonary Embolism,Sri Venkateswara Institute Tirupati,2023-03-16,126700,AWAITING_STANDARD,STANDARD,79
+CP-H-058,HEALTH,HEALTH_MATERNITY,HG-2023-058,Saraswathi Devi,19,25.6,no,northwest,Cataract Surgery,KIMS Hospitals Vijayawada,2024-07-04,184400,AWAITING_STANDARD,STANDARD,96
+CP-H-059,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-059,Mahesh Babu,35,27.7,no,southwest,Angioplasty,Sri Venkateswara Institute Tirupati,2023-03-12,6400,AWAITING_STANDARD,STANDARD,68
+CP-H-060,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-060,Himabindu Rao,47,19.6,no,northwest,Hypertension Treatment,Lotus Hospital Vijayawada,2024-07-10,8400,APPROVED,,78
+CP-H-061,HEALTH,HEALTH_MATERNITY,HG-2023-061,Prabhakar Rao,25,41.3,no,northeast,Acute Appendicitis,Star Hospitals Vijayawada,2024-07-21,17900,AWAITING_SENIOR,SENIOR,93
+CP-H-062,HEALTH,HEALTH_DOMICILIARY,HG-2023-062,Vijayalakshmi D,21,31.0,no,southeast,Pancreatitis,Narayana Health Nellore,2023-09-28,16600,AWAITING_STANDARD,STANDARD,66
+CP-H-063,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-063,Surya Narayana,54,25.5,no,northeast,Diabetes Management,Care Hospitals Guntur,2023-10-16,25500,AWAITING_STANDARD,STANDARD,95
+CP-H-064,HEALTH,HEALTH_DOMICILIARY,HG-2023-064,Jayanthi Kumari,18,53.1,no,southeast,Typhoid Fever,Star Hospitals Vijayawada,2024-10-11,96600,AWAITING_SENIOR,SENIOR,81
+CP-H-065,HEALTH,HEALTH_MATERNITY,HG-2023-065,Bhaskar Rao,48,27.9,no,northwest,Renal Calculus,Apollo Hospitals Hyderabad,2023-04-05,11000,APPROVED,,91
+CP-H-066,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-066,Nirmala Devi,54,21.5,no,northwest,Acute Appendicitis,Sri Venkateswara Institute Tirupati,2023-05-14,12500,AWAITING_SENIOR,SENIOR,62
+CP-H-067,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-067,Srinivasulu K,19,28.6,no,southwest,Sinusitis Surgery,Lotus Hospital Vijayawada,2024-07-18,389100,AWAITING_SENIOR,SENIOR,70
+CP-H-068,HEALTH,HEALTH_MATERNITY,HG-2023-068,Savitha Reddy,28,17.3,no,northeast,Cataract Surgery,KIMS Hospitals Vijayawada,2023-06-02,309800,AWAITING_SENIOR,SENIOR,60
+CP-H-069,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-069,Hari Prasad,40,26.3,no,northwest,Road Accident Trauma,Narayana Health Nellore,2024-03-16,6400,AWAITING_ELEVATED,ELEVATED,97
+CP-H-070,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-070,Tulasi Devi,35,27.1,no,southwest,Pancreatitis,Apollo Hospitals Hyderabad,2024-01-02,393900,AWAITING_STANDARD,STANDARD,83
+CP-H-071,HEALTH,HEALTH_CASHLESS,HG-2023-071,Gopala Rao,39,29.6,no,southwest,Hernia Repair,Rainbow Hospitals Hyderabad,2024-02-21,7500,AWAITING_STANDARD,STANDARD,66
+CP-H-072,HEALTH,HEALTH_DOMICILIARY,HG-2023-072,Madhavi Latha,40,30.9,no,northwest,Angioplasty,Ramesh Hospitals Vijayawada,2023-06-16,8200,DEFICIENT,,69
+CP-H-073,HEALTH,HEALTH_CASHLESS,HG-2023-073,Ramakrishna Rao,39,32.8,no,southwest,Acute Appendicitis,Narayana Health Nellore,2023-12-07,5600,DEFICIENT,,86
+CP-H-074,HEALTH,HEALTH_DAYCARE,HG-2023-074,Sujatha Nair,64,36.0,no,southeast,Renal Calculus,Narayana Health Nellore,2023-04-21,14300,AWAITING_SENIOR,SENIOR,75
+CP-H-075,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-075,Sunil Kumar,55,27.0,no,northwest,Dengue Fever,Ramesh Hospitals Vijayawada,2024-04-16,11100,AWAITING_ELEVATED,ELEVATED,90
+CP-H-076,HEALTH,HEALTH_CASHLESS,HG-2023-076,Bharathi Devi,52,36.8,no,northwest,Acute Appendicitis,Star Hospitals Vijayawada,2023-07-17,26500,AWAITING_STANDARD,STANDARD,74
+CP-H-077,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-077,Eswara Rao,19,28.7,no,southwest,Tonsillectomy,Care Hospitals Guntur,2023-12-26,104100,AWAITING_ELEVATED,ELEVATED,64
+CP-H-078,HEALTH,HEALTH_DAYCARE,HG-2023-078,Rukmini Devi,45,35.3,no,southwest,Hip Replacement,Apollo Hospitals Hyderabad,2023-04-29,7300,AWAITING_SENIOR,SENIOR,94
+CP-H-079,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-079,Lakshmaiah P,30,25.5,no,northeast,Spinal Disc Prolapse,Care Hospitals Guntur,2023-02-09,302500,APPROVED,,71
+CP-H-080,HEALTH,HEALTH_DAYCARE,HG-2023-080,Sarada Devi,57,43.7,no,southwest,Sinusitis Surgery,Sri Venkateswara Institute Tirupati,2024-03-22,11600,AWAITING_STANDARD,STANDARD,82
+CP-H-081,HEALTH,HEALTH_MATERNITY,HG-2023-081,Venkatesh Rao,23,24.2,no,northeast,Coronary Artery Disease,Yashoda Hospitals Hyderabad,2023-07-14,22400,AWAITING_SENIOR,SENIOR,67
+CP-H-082,HEALTH,HEALTH_DOMICILIARY,HG-2023-082,Pavani Kumari,20,32.4,no,northwest,Acute Appendicitis,Rainbow Hospitals Hyderabad,2024-07-05,196100,AWAITING_STANDARD,STANDARD,87
+CP-H-083,HEALTH,HEALTH_DOMICILIARY,HG-2023-083,Subba Rao,52,37.5,no,northwest,Hernia Repair,Omega Hospital Visakhapatnam,2023-03-13,33500,AWAITING_SENIOR,SENIOR,72
+CP-H-084,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-084,Usha Rani,18,38.3,no,southeast,Cancer Chemotherapy,KIMS Hospitals Vijayawada,2023-11-04,14100,REJECTED,,80
+CP-H-085,HEALTH,HEALTH_DOMICILIARY,HG-2023-085,Kodanda Rao,18,53.1,no,southeast,Hip Replacement,Omega Hospital Visakhapatnam,2023-10-30,96600,AWAITING_ELEVATED,ELEVATED,86
+CP-H-086,HEALTH,HEALTH_CASHLESS,HG-2023-086,Triveni Devi,44,30.2,yes,southwest,Cancer Chemotherapy,Omega Hospital Visakhapatnam,2024-11-24,39000,AWAITING_SENIOR,SENIOR,86
+CP-H-087,HEALTH,HEALTH_CASHLESS,HG-2023-087,Hanumantha Rao,23,34.9,no,northeast,Gallbladder Removal,Omega Hospital Visakhapatnam,2024-07-15,240700,AWAITING_SENIOR,SENIOR,96
+CP-H-088,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-088,Kamakshi Devi,50,28.1,no,northwest,Typhoid Fever,Omega Hospital Visakhapatnam,2024-08-16,11100,APPROVED,,78
+CP-H-089,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-089,Srikanth Reddy,64,37.0,yes,southeast,Pulmonary Embolism,Lotus Hospital Vijayawada,2024-11-22,49600,AWAITING_SENIOR,SENIOR,89
+CP-H-090,HEALTH,HEALTH_DAYCARE,HG-2023-090,Asha Latha,18,23.1,no,northeast,Cancer Chemotherapy,KIMS Hospitals Vijayawada,2023-10-18,141500,AWAITING_STANDARD,STANDARD,70
+CP-H-091,HEALTH,HEALTH_DOMICILIARY,HG-2023-091,Narayana Rao,22,35.6,yes,southwest,Knee Arthroplasty,Ramesh Hospitals Vijayawada,2024-11-19,35600,AWAITING_ELEVATED,ELEVATED,81
+CP-H-092,HEALTH,HEALTH_CASHLESS,HG-2023-092,Naga Lakshmi,54,28.9,no,northeast,Acute Appendicitis,Apollo Hospitals Hyderabad,2023-09-08,12100,AWAITING_STANDARD,STANDARD,69
+CP-H-093,HEALTH,HEALTH_MATERNITY,HG-2023-093,Samba Siva Rao,18,23.3,no,southeast,Pulmonary Embolism,Omega Hospital Visakhapatnam,2024-10-06,142000,DEFICIENT,,64
+CP-H-094,HEALTH,HEALTH_DOMICILIARY,HG-2023-094,Vijaya Kumari,19,27.7,yes,southwest,Maternity - Normal Delivery,Omega Hospital Visakhapatnam,2023-09-07,16300,AWAITING_SENIOR,SENIOR,84
+CP-H-095,HEALTH,HEALTH_DOMICILIARY,HG-2023-095,Yellaiah B,21,34.9,no,southeast,Pancreatitis,KIMS Hospitals Vijayawada,2024-03-11,167700,AWAITING_STANDARD,STANDARD,60
+CP-H-096,HEALTH,HEALTH_DOMICILIARY,HG-2023-096,Padmavathi Devi,39,32.5,no,southwest,Pulmonary Embolism,Apollo Hospitals Hyderabad,2024-07-24,6200,AWAITING_STANDARD,STANDARD,93
+CP-H-097,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-097,Krishnaswamy R,44,31.4,yes,northeast,Diabetes Management,Lotus Hospital Vijayawada,2024-11-14,39600,AWAITING_STANDARD,STANDARD,89
+CP-H-098,HEALTH,HEALTH_MATERNITY,HG-2023-098,Satya Narayana,36,31.5,no,southwest,Hip Replacement,Lotus Hospital Vijayawada,2024-09-19,365400,AWAITING_ELEVATED,ELEVATED,98
+CP-H-099,HEALTH,HEALTH_MATERNITY,HG-2023-099,Janaki Devi,38,27.6,no,southwest,Burns Treatment,Rainbow Hospitals Hyderabad,2024-04-01,5400,APPROVED,,87
+CP-H-100,HEALTH,HEALTH_DOMICILIARY,HG-2023-100,Appala Naidu,46,28.9,no,southwest,Pulmonary Embolism,Care Hospitals Guntur,2023-09-11,8800,APPROVED,,90
+CP-H-101,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-101,Nagamani Devi,26,17.7,no,northwest,Maternity - Normal Delivery,Star Hospitals Vijayawada,2023-09-02,222500,APPROVED,,93
+CP-H-102,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-102,Venugopal Rao,50,27.6,yes,southwest,Dengue Fever,Care Hospitals Guntur,2023-12-10,24500,AWAITING_STANDARD,STANDARD,78
+CP-H-103,HEALTH,HEALTH_MATERNITY,HG-2023-103,Seshayamma K,43,30.1,no,northwest,Diabetes Management,Narayana Health Nellore,2023-08-25,8400,AWAITING_STANDARD,STANDARD,65
+CP-H-104,HEALTH,HEALTH_CASHLESS,HG-2023-104,Veeraiah Naidu,36,26.9,no,northwest,Knee Arthroplasty,Omega Hospital Visakhapatnam,2024-02-22,5300,AWAITING_ELEVATED,ELEVATED,73
+CP-H-105,HEALTH,HEALTH_DAYCARE,HG-2023-105,Mangamma Devi,25,24.3,no,southwest,Cardiac Bypass Surgery,Ramesh Hospitals Vijayawada,2024-03-06,364500,AWAITING_STANDARD,STANDARD,86
+CP-H-106,HEALTH,HEALTH_MATERNITY,HG-2023-106,Subbaiah P,19,25.7,no,northwest,Septicemia,Yashoda Hospitals Hyderabad,2024-01-25,225000,AWAITING_ELEVATED,ELEVATED,61
+CP-H-107,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-107,Ammaji Devi,57,20.1,no,southwest,Tonsillectomy,Omega Hospital Visakhapatnam,2024-03-05,12000,AWAITING_ELEVATED,ELEVATED,79
+CP-H-108,HEALTH,HEALTH_DOMICILIARY,HG-2023-108,Ramaiah Naidu,29,20.2,no,northwest,Fracture - Femur,Yashoda Hospitals Hyderabad,2023-08-14,407200,AWAITING_ELEVATED,ELEVATED,94
+CP-H-109,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-109,Kalavathi Devi,40,29.9,no,southwest,Maternity - Normal Delivery,Apollo Hospitals Hyderabad,2024-02-03,6600,AWAITING_ELEVATED,ELEVATED,87
+CP-H-110,HEALTH,HEALTH_DOMICILIARY,HG-2023-110,Eswaraiah B,19,28.9,no,southwest,Sinusitis Surgery,Narayana Health Nellore,2024-04-23,144700,AWAITING_STANDARD,STANDARD,85
+CP-H-111,HEALTH,HEALTH_MATERNITY,HG-2023-111,Satyavathi K,58,32.0,no,southeast,Acute Appendicitis,Omega Hospital Visakhapatnam,2024-08-29,11900,REJECTED,,94
+CP-H-112,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-112,Brahmananda Rao,33,22.7,no,northwest,Kidney Transplant,Omega Hospital Visakhapatnam,2023-05-19,22000,AWAITING_SENIOR,SENIOR,65
+CP-H-113,HEALTH,HEALTH_CASHLESS,HG-2023-113,Jayamma Devi,56,40.3,no,southwest,Renal Calculus,Omega Hospital Visakhapatnam,2023-12-02,10600,APPROVED,,63
+CP-H-114,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-114,Seshagiri Rao,30,23.0,yes,northwest,Tonsillectomy,Omega Hospital Visakhapatnam,2023-10-12,17400,AWAITING_STANDARD,STANDARD,81
+CP-H-115,HEALTH,HEALTH_DAYCARE,HG-2023-115,Kotamma Devi,49,30.8,no,northeast,Burns Treatment,KIMS Hospitals Vijayawada,2024-04-26,9800,AWAITING_SENIOR,SENIOR,76
+CP-H-116,HEALTH,HEALTH_MATERNITY,HG-2023-116,Buchaiah Naidu,53,38.1,no,southeast,Hernia Repair,Ramesh Hospitals Vijayawada,2024-10-27,20500,AWAITING_STANDARD,STANDARD,63
+CP-H-117,HEALTH,HEALTH_DOMICILIARY,HG-2023-117,Gangamma Devi,34,27.0,no,southwest,Tonsillectomy,Apollo Hospitals Hyderabad,2023-09-11,11700,AWAITING_STANDARD,STANDARD,62
+CP-H-118,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-118,Narasimha Rao,51,34.1,no,southeast,Dengue Fever,Narayana Health Nellore,2024-04-29,9300,AWAITING_STANDARD,STANDARD,69
+CP-H-119,HEALTH,HEALTH_MATERNITY,HG-2023-119,Parvathamma D,19,19.8,no,southwest,Pulmonary Embolism,Pinnamaneni Hospitals Krishna,2023-09-20,103000,AWAITING_SENIOR,SENIOR,73
+CP-H-120,HEALTH,HEALTH_CASHLESS,HG-2023-120,Reddaiah G,53,26.4,no,northeast,Liver Cirrhosis,Pinnamaneni Hospitals Krishna,2023-04-28,11200,AWAITING_SENIOR,SENIOR,98
+CP-H-121,HEALTH,HEALTH_CASHLESS,HG-2023-121,Ravi Shankar Rao,20,31.8,no,southeast,Cataract Surgery,Yashoda Hospitals Hyderabad,2023-01-27,253700,AWAITING_SENIOR,SENIOR,79
+CP-H-122,HEALTH,HEALTH_MATERNITY,HG-2023-122,Priya Nair,50,33.7,no,southwest,Coronary Artery Disease,Pinnamaneni Hospitals Krishna,2023-07-23,11300,REJECTED,,84
+CP-H-123,HEALTH,HEALTH_DOMICILIARY,HG-2023-123,Mohammed Salim,51,35.0,yes,northeast,Cataract Surgery,Pinnamaneni Hospitals Krishna,2023-11-05,44600,AWAITING_STANDARD,STANDARD,75
+CP-H-124,HEALTH,HEALTH_MATERNITY,HG-2023-124,Sunita Devi,18,21.6,yes,northeast,Fracture - Femur,Yashoda Hospitals Hyderabad,2023-02-12,13700,APPROVED,,67
+CP-H-125,HEALTH,HEALTH_DAYCARE,HG-2023-125,Venkat Reddy,36,29.7,no,southeast,Knee Arthroplasty,Rainbow Hospitals Hyderabad,2024-10-25,365200,AWAITING_STANDARD,STANDARD,83
+CP-H-126,HEALTH,HEALTH_DAYCARE,HG-2023-126,Lakshmi Prasad,41,33.2,no,northeast,Cataract Surgery,Omega Hospital Visakhapatnam,2024-01-06,8500,AWAITING_STANDARD,STANDARD,91
+CP-H-127,HEALTH,HEALTH_DAYCARE,HG-2023-127,Arjun Sharma,58,36.1,no,southeast,Stroke Rehabilitation,Narayana Health Nellore,2024-06-18,11400,AWAITING_SENIOR,SENIOR,69
+CP-H-128,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-128,Geeta Kumari,43,25.3,yes,northeast,Tonsillectomy,Lotus Hospital Vijayawada,2024-04-21,21800,DEFICIENT,,94
+CP-H-129,HEALTH,HEALTH_DOMICILIARY,HG-2023-129,Suresh Babu,31,26.9,no,northeast,Renal Calculus,Sri Venkateswara Institute Tirupati,2023-09-09,368600,AWAITING_ELEVATED,ELEVATED,97
+CP-H-130,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-130,Anitha Reddy,34,32.8,no,southwest,Pancreatitis,Lotus Hospital Vijayawada,2023-09-07,14400,APPROVED,,77
+CP-H-131,HEALTH,HEALTH_MATERNITY,HG-2023-131,Krishna Murthy,29,29.6,no,northeast,Hip Replacement,Apollo Hospitals Hyderabad,2024-05-21,20300,AWAITING_SENIOR,SENIOR,84
+CP-H-132,HEALTH,HEALTH_CASHLESS,HG-2023-132,Padma Rao,45,25.2,no,northeast,Typhoid Fever,Sri Venkateswara Institute Tirupati,2023-09-22,9100,APPROVED,,91
+CP-H-133,HEALTH,HEALTH_MATERNITY,HG-2023-133,Srinivas Kumar,45,30.5,yes,northwest,Road Accident Trauma,Apollo Hospitals Hyderabad,2024-06-13,39700,AWAITING_STANDARD,STANDARD,77
+CP-H-134,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-134,Uma Devi,23,32.7,no,southwest,Sinusitis Surgery,Omega Hospital Visakhapatnam,2024-05-15,298100,REJECTED,,75
+CP-H-135,HEALTH,HEALTH_CASHLESS,HG-2023-135,Rajesh Gupta,27,32.4,no,northeast,Kidney Transplant,Pinnamaneni Hospitals Krishna,2024-05-17,18900,AWAITING_SENIOR,SENIOR,90
+CP-H-136,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-136,Meena Patel,60,27.6,no,northeast,Gallbladder Removal,Ramesh Hospitals Vijayawada,2024-02-19,13200,AWAITING_ELEVATED,ELEVATED,65
+CP-H-137,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-137,Vikram Singh,23,32.6,no,southeast,Hernia Repair,Lotus Hospital Vijayawada,2024-07-20,151400,AWAITING_SENIOR,SENIOR,97
+CP-H-138,HEALTH,HEALTH_DAYCARE,HG-2023-138,Deepa Iyer,51,39.7,no,southwest,Hip Replacement,Sri Venkateswara Institute Tirupati,2024-04-09,9400,AWAITING_ELEVATED,ELEVATED,95
+CP-H-139,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-139,Santosh Yadav,26,29.4,no,northeast,Cataract Surgery,Pinnamaneni Hospitals Krishna,2023-07-17,240500,AWAITING_STANDARD,STANDARD,74
+CP-H-140,HEALTH,HEALTH_DOMICILIARY,HG-2023-140,Kavitha Nair,33,35.2,no,northeast,Tonsillectomy,Pinnamaneni Hospitals Krishna,2023-07-09,12400,AWAITING_STANDARD,STANDARD,94
+CP-H-141,HEALTH,HEALTH_DOMICILIARY,HG-2023-141,Ramesh Babu,19,20.6,no,northwest,Renal Calculus,Pinnamaneni Hospitals Krishna,2024-08-26,232700,AWAITING_STANDARD,STANDARD,90
+CP-H-142,HEALTH,HEALTH_MATERNITY,HG-2023-142,Shanthi Devi,41,33.1,no,northwest,Gallbladder Removal,KIMS Hospitals Vijayawada,2023-07-18,7700,DEFICIENT,,98
+CP-H-143,HEALTH,HEALTH_CRITICAL_ILLNESS,HG-2023-143,Naresh Reddy,19,27.9,no,northwest,Gallbladder Removal,Apollo Hospitals Hyderabad,2024-06-30,18800,AWAITING_STANDARD,STANDARD,71
+CP-H-144,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-144,Anjali Sharma,43,26.7,yes,southwest,Road Accident Trauma,Care Hospitals Guntur,2023-05-10,22500,AWAITING_STANDARD,STANDARD,63
+CP-H-145,HEALTH,HEALTH_DAYCARE,HG-2023-145,Prakash Rao,58,30.3,no,northeast,Septicemia,Apollo Hospitals Hyderabad,2024-08-10,11900,AWAITING_SENIOR,SENIOR,66
+CP-H-146,HEALTH,HEALTH_DAYCARE,HG-2023-146,Saritha Kumari,46,25.8,no,southwest,Hip Replacement,Narayana Health Nellore,2023-02-22,10100,AWAITING_STANDARD,STANDARD,88
+CP-H-147,HEALTH,HEALTH_DAYCARE,HG-2023-147,Anil Kumar,44,43.9,yes,southeast,Burns Treatment,KIMS Hospitals Vijayawada,2024-02-15,46200,AWAITING_STANDARD,STANDARD,67
+CP-H-148,HEALTH,HEALTH_MATERNITY,HG-2023-148,Rekha Pillai,44,34.3,no,southeast,Diabetes Management,Narayana Health Nellore,2024-07-30,7100,AWAITING_ELEVATED,ELEVATED,63
+CP-H-149,HEALTH,HEALTH_REIMBURSEMENT,HG-2023-149,Vijay Babu,38,37.0,no,northeast,Cataract Surgery,Rainbow Hospitals Hyderabad,2024-03-02,6100,REJECTED,,75
+CP-H-150,HEALTH,HEALTH_MATERNITY,HG-2023-150,Sudha Rani,59,24.7,no,northeast,Tonsillectomy,Rainbow Hospitals Hyderabad,2024-01-25,12300,AWAITING_SENIOR,SENIOR,74

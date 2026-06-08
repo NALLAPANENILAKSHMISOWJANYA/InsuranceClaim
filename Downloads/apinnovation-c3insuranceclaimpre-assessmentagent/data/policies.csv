@@ -1,0 +1,6 @@
+policy_id,policy_number,policy_name,insurance_type,sum_insured,policy_status
+POL-H-001,HG-2023-001,Health Gold Plan,HEALTH,500000,ACTIVE
+POL-L-001,LT-2023-001,Life Secure Plan,LIFE,2000000,ACTIVE
+POL-V-001,MV-2023-001,Motor Comprehensive,VEHICLE,800000,ACTIVE
+POL-HM-001,HO-2023-001,Home Shield Plus,HOME,2500000,ACTIVE
+POL-C-001,CR-2024-001,PMFBY Crop Cover,CROP,300000,ACTIVE

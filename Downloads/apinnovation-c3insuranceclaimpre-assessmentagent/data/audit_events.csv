@@ -1,0 +1,7 @@
+event_id,claim_id,event_type,actor,event_description,event_timestamp
+AUD-001,CP-H-001,PRE_ASSESSMENT,SYSTEM,Pre-assessment generated for claim CP-H-001 with recommendation REVIEW_REQUIRED,2026-06-08T08:44:49.702503+00:00
+AUD-002,CP-H-001,PRE_ASSESSMENT,SYSTEM,Pre-assessment generated for claim CP-H-001 with recommendation REVIEW_REQUIRED,2026-06-08T09:10:11.357087+00:00
+AUD-003,CP-H-001,PRE_ASSESSMENT,SYSTEM,Pre-assessment generated for claim CP-H-001 with recommendation REVIEW_REQUIRED,2026-06-08T09:10:11.410982+00:00
+AUD-004,CP-H-001,PRE_ASSESSMENT,SYSTEM,Pre-assessment generated for claim CP-H-001 with recommendation REVIEW_REQUIRED,2026-06-08T09:10:32.742413+00:00
+AUD-005,CP-H-001,PRE_ASSESSMENT,SYSTEM,Pre-assessment generated for claim CP-H-001 with recommendation REVIEW_REQUIRED,2026-06-08T09:10:50.076820+00:00
+AUD-006,CP-H-001,PRE_ASSESSMENT,SYSTEM,Pre-assessment generated for claim CP-H-001 with recommendation REVIEW_REQUIRED,2026-06-08T09:29:35.354675+00:00
